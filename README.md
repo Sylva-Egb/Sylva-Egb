@@ -1,6 +1,6 @@
 ### Hi there 👋, Let me introduce properly my person to you 
 ```php
-    $first_name = "Sylvannus";
+    $first_name = "Sylvanus";
     $last_name = "EGBEWOLE";
     echo "I'm $first_name $last_name, a Web Developer specially a Laravel Enthusiast";
 ```
